@@ -10,12 +10,12 @@
     "react-component"
   ],
   "author": {
-    "name": "Benjamin Dobell",
-    "email": "contact@glassechidna.com.au"
+    "name": "Ron Planken - HybrIT",
+    "email": "ron.planken@hybrit.org"
   },
-  "homepage": "https://github.com/Benjamin-Dobell/react-native-markdown-view",
+  "homepage": "https://github.com/HybrIT-share/react-native-markdown-view",
   "bugs": {
-    "url": "https://github.com/Benjamin-Dobell/react-native-markdown-view/issues"
+    "url": "https://github.com/HybrIT-share/react-native-markdown-view/issues"
   },
   "repository": {
     "type": "git",
@@ -23,9 +23,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "prop-types": "^15.5.10",
-    "react-native-tabular-grid-markdown-view": "0.1.x",
-    "simple-markdown": "0.3.x"
+    "prop-types": "^15.7.2",
+    "react-native-tabular-grid-markdown-view": "0.1.0",
+    "simple-markdown": "0.4.4"
   },
   "devDependencies": {
     "flow-bin": "^0.36.0"

@@ -12,7 +12,10 @@
   ],
   "files": [
     "typings/",
-    "MardownView.js"
+    "MarkdownView.js",
+    "types.js",
+    "renders.js",
+    "styles.js"
   ],
   "author": {
     "name": "Ron Planken - HybrIT",

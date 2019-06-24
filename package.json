@@ -3,11 +3,15 @@
   "version": "1.1.4",
   "description": "React Native Markdown View",
   "main": "index.js",
+  "typings": "typings/index.d.ts",
   "keywords": [
     "react",
     "react-native",
     "markdown",
     "react-component"
+  ],
+  "files": [
+    "typings/"
   ],
   "author": {
     "name": "Ron Planken - HybrIT",
@@ -28,6 +32,6 @@
     "simple-markdown": "0.4.4"
   },
   "devDependencies": {
-    "flow-bin": "^0.36.0"
+    "flow-bin": "^0.93.1"
   }
 }

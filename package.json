@@ -11,7 +11,8 @@
     "react-component"
   ],
   "files": [
-    "typings/"
+    "typings/",
+    "MardownView.js"
   ],
   "author": {
     "name": "Ron Planken - HybrIT",
